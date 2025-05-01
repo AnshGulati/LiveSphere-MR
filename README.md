@@ -1,4 +1,4 @@
-# 🌍 Minor-Project-2-MR: **LiveSphere - Mixed Reality Environmental Explorer**
+# 🌍 **LiveSphere - MR**
 
 ## 🚀 Overview
 **LiveSphere** is an immersive Mixed Reality (MR) application designed to bridge the gap between people and nature by transforming complex environmental data into an intuitive, engaging, and interactive experience. Using gesture-based interactions, real-time data integration, and region-specific simulations, this application enhances environmental awareness, promotes adaptive wellness, and supports sustainability education.
